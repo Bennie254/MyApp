@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#0099ff</color>
+    <color name="colorPrimaryDark">#0099ff</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Ben\'s App</string>
+    <string name="default_web_client_id" translatable="false">402872518596-d82c8k19nhtar1vcat1n4kf9gnba87n2.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="gcm_defaultSenderId" translatable="false">402872518596</string>
+    <string name="google_api_key" translatable="false">AIzaSyAS3dEueyf3X79ArgBxbMaJwqwttysD5uk</string>
+    <string name="google_app_id" translatable="false">1:402872518596:android:875afa713dee6deb5f4691</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAS3dEueyf3X79ArgBxbMaJwqwttysD5uk</string>
+    <string name="google_icon">google icon</string>
+    <string name="google_storage_bucket" translatable="false">ben-s-app-be55f.appspot.com</string>
+    <string name="login">LOGIN</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="or">OR</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">ben-s-app-be55f</string>
+    <string name="top_icon">TOP ICON</string>
+    <style name="Theme.BensApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

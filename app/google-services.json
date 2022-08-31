@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402872518596",
+    "project_id": "ben-s-app-be55f",
+    "storage_bucket": "ben-s-app-be55f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402872518596:android:875afa713dee6deb5f4691",
+        "android_client_info": {
+          "package_name": "com.example.bensapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402872518596-d82c8k19nhtar1vcat1n4kf9gnba87n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS3dEueyf3X79ArgBxbMaJwqwttysD5uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402872518596-d82c8k19nhtar1vcat1n4kf9gnba87n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
